@@ -4,4 +4,4 @@
 #include "misc/macros.hpp"
 #include "misc/types.hpp"
 
-#endif // !GUARD_IO_H
+#endif // !AMUSE_INCLUDE_MISC_HPP
