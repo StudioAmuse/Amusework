@@ -3,7 +3,7 @@
 
 #include "misc/macros.hpp"
 
-namespace amuse::io
+namespace amuse::io::directory
 {
     /**
      * @brief 지정한 경로 내에 디렉토리가 존재하는지 확인합니다.
