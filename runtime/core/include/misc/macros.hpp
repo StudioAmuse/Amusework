@@ -16,8 +16,9 @@
         #define AMUSE_COMPILER_MSVC 1
     #elif defined(__clang__)
         #define AMUSE_COMPILER_CLANG 1
-        #elif defined(__GNUC__)
+    #elif defined(__GNUC__)
         #define AMUSE_COMPILER_GCC 1
+    #endif
 #endif
 
 #if defined(AMUSE_PLATFORM_WINDOWS)
